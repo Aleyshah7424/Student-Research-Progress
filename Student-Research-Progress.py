@@ -1,3 +1,5 @@
+#Ahmad Ali
+#BSEEN1E02044
 class University:
     def __init__(self, name):
         self.name = name
