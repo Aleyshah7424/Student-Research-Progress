@@ -5,10 +5,9 @@ WORKDIR /app
 
 #python scripts
 COPY main.py .
-COPY user.py .
+COPY university.py .
 COPY student.py .
-COPY employee.py .
-COPY applicant.py .
+COPY researchproject.py .
 
 # Run main.py
 CMD ["python", "main.py"]
