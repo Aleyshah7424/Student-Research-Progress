@@ -13,5 +13,5 @@ COPY applicant.py .
 # Run main.py
 CMD ["python", "main.py"]
 #Terminal Commands
-#docker build -t UserType-app
-# docker run UserType-app 
+#docker build -t ResearchProgress-app
+# docker run ResearchProgress-app 
